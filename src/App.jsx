@@ -6,6 +6,9 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Cocktails from "./components/Cocktails";
 import About from "./About";
+import Art from "./components/Art";
+import Menu from "./components/Menu";
+import Contact from "./components/Contact";
 const App = () => {
     return (
         <main>
@@ -13,6 +16,9 @@ const App = () => {
             <Hero />
             <Cocktails />
             <About />
+            <Art />
+            <Menu />
+            <Contact />
         </main>
     );
 };

@@ -120,21 +120,22 @@ const socials = [
     {
         name: "Instagram",
         icon: "/images/insta.png",
-        url: "#",
+        url: "https://github.com/ChinmayeePrasad327",
     },
     {
         name: "X (Twitter)",
         icon: "/images/x.png",
-        url: "#",
+        url: "https://www.linkedin.com/in/chinmayee-prasad/",
     },
     {
         name: "Facebook",
         icon: "/images/fb.png",
         url: "#",
     },
+
 ];
 
-const sliderLists = [
+const allCocktails = [
     {
         id: 1,
         name: "Classic Mojito",
@@ -179,5 +180,5 @@ export {
     openingHours,
     storeInfo,
     socials,
-    sliderLists,
+    allCocktails,
 };
